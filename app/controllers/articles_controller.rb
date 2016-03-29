@@ -51,3 +51,5 @@ class ArticlesController < ApplicationController
     end
   
 end
+
+# rails s -b $IP -p $PORT
